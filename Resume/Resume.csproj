@@ -182,8 +182,8 @@
   <ItemGroup>
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
-    <Content Include="Public\css\bootstrap-responsive.min.css" />
-    <Content Include="Public\css\bootstrap.min.css" />
+    <Content Include="Public\css\bootstrap-responsive.css" />
+    <Content Include="Public\css\bootstrap.css" />
     <Content Include="Public\css\site.css">
       <DependentUpon>site.less</DependentUpon>
     </Content>
