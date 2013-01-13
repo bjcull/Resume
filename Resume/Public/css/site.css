@@ -33,6 +33,9 @@ body {
 #body .container section .padding-wrap {
   padding: 40px;
 }
+#body .container section .padding-wrap.notop {
+  padding-top: 0px;
+}
 #body .container section h2 {
   text-align: center;
   font-family: "Segoe UI SemiBold", "Segoe WP", "Helvetica Neue", 'RobotoRegular', sans-serif;
